@@ -1,12 +1,12 @@
 import React from 'react'
-import MainHeader from './components/MainHeader'
-import Section1 from './components/Section1'
-import Section2 from './components/Section2'
-import Section3 from './components/Section3'
-import Section4 from './components/Section4'
-import Section5 from './components/Section5'
-import Section6 from './components/Section6'
-import Footer from './components/Footer'
+import MainHeader from './pages/MainHeader'
+import Section1 from './pages/Section1'
+import Section2 from './pages/Section2'
+import Section3 from './pages/Section3'
+import Section4 from './pages/Section4'
+import Section5 from './pages/Section5'
+import Section6 from './pages/Section6'
+import Footer from './pages/Footer'
 
 export default function App() {
   return (
